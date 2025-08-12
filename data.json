@@ -1,0 +1,864 @@
+[
+  {
+    "project_id": 1,
+    "title": "Campus Connect",
+    "description": "A social platform for students to connect and collaborate on campus events.",
+    "created_by": 101,
+    "start_date": "2024-01-10",
+    "end_date": "2024-04-15",
+    "status": "Ongoing",
+    "visibility": "Public",
+    "technology_stack": [
+      "React",
+      "Node.js",
+      "MongoDB"
+    ],
+    "members_count": 4,
+    "leader_name": "Amit Sharma",
+    "department": "Computer Science"
+  },
+  {
+    "project_id": 2,
+    "title": "Smart Attendance",
+    "description": "Face recognition-based attendance system for classrooms.",
+    "created_by": 105,
+    "start_date": "2024-02-01",
+    "end_date": "2024-05-20",
+    "status": "Ongoing",
+    "visibility": "Private",
+    "technology_stack": [
+      "Python",
+      "OpenCV",
+      "Flask"
+    ],
+    "members_count": 3,
+    "leader_name": "Priya Nair",
+    "department": "Computer Science"
+  },
+  {
+    "project_id": 3,
+    "title": "EduNote",
+    "description": "Digital note-sharing app for students across departments.",
+    "created_by": 112,
+    "start_date": "2023-11-05",
+    "end_date": "2024-03-30",
+    "status": "Completed",
+    "visibility": "Public",
+    "technology_stack": [
+      "Flutter",
+      "Django",
+      "MySQL"
+    ],
+    "members_count": 5,
+    "leader_name": "Rohan Mehta",
+    "department": "Information Technology"
+  },
+  {
+    "project_id": 4,
+    "title": "Lab Scheduler",
+    "description": "Web app to book lab slots and manage equipment usage.",
+    "created_by": 108,
+    "start_date": "2024-01-15",
+    "end_date": "2024-06-10",
+    "status": "Ongoing",
+    "visibility": "Public",
+    "technology_stack": [
+      "JavaScript",
+      "Express",
+      "MongoDB"
+    ],
+    "members_count": 3,
+    "leader_name": "Neha Joshi",
+    "department": "Computer Science"
+  },
+  {
+    "project_id": 5,
+    "title": "CodeQuiz",
+    "description": "Interactive coding quiz platform for campus placements.",
+    "created_by": 117,
+    "start_date": "2024-03-01",
+    "end_date": "2024-07-15",
+    "status": "Proposed",
+    "visibility": "Private",
+    "technology_stack": [
+      "React",
+      "Node.js",
+      "MongoDB"
+    ],
+    "members_count": 1,
+    "leader_name": "Vikram Singh",
+    "department": "Computer Science"
+  },
+  {
+    "project_id": 6,
+    "title": "Green Campus",
+    "description": "App to track sustainability efforts and eco-challenges.",
+    "created_by": 122,
+    "start_date": "2024-02-10",
+    "end_date": "2024-08-01",
+    "status": "Ongoing",
+    "visibility": "Public",
+    "technology_stack": [
+      "Flutter",
+      "Firebase"
+    ],
+    "members_count": 4,
+    "leader_name": "Ananya Pillai",
+    "department": "Environmental Science"
+  },
+  {
+    "project_id": 7,
+    "title": "Campus Food Map",
+    "description": "Interactive map showing food stalls, timings, and ratings.",
+    "created_by": 103,
+    "start_date": "2023-12-01",
+    "end_date": "2024-04-05",
+    "status": "Completed",
+    "visibility": "Public",
+    "technology_stack": [
+      "JavaScript",
+      "Leaflet",
+      "Node.js"
+    ],
+    "members_count": 3,
+    "leader_name": "Karan Malhotra",
+    "department": "Computer Science"
+  },
+  {
+    "project_id": 8,
+    "title": "MentorMatch",
+    "description": "Platform to connect juniors with senior mentors in their field.",
+    "created_by": 114,
+    "start_date": "2024-01-20",
+    "end_date": "2024-06-30",
+    "status": "Ongoing",
+    "visibility": "Public",
+    "technology_stack": [
+      "React",
+      "Django",
+      "PostgreSQL"
+    ],
+    "members_count": 5,
+    "leader_name": "Sneha Reddy",
+    "department": "Information Technology"
+  },
+  {
+    "project_id": 9,
+    "title": "EventFlow",
+    "description": "Event planning and coordination tool for student clubs.",
+    "created_by": 109,
+    "start_date": "2024-03-10",
+    "end_date": "2024-09-01",
+    "status": "Proposed",
+    "visibility": "Private",
+    "technology_stack": [
+      "React",
+      "Firebase"
+    ],
+    "members_count": 2,
+    "leader_name": "Arjun Patel",
+    "department": "Computer Science"
+  },
+  {
+    "project_id": 10,
+    "title": "StudyBuddy",
+    "description": "Find study partners based on course and availability.",
+    "created_by": 116,
+    "start_date": "2024-02-05",
+    "end_date": "2024-05-15",
+    "status": "Ongoing",
+    "visibility": "Public",
+    "technology_stack": [
+      "Python",
+      "Flask",
+      "SQLite"
+    ],
+    "members_count": 3,
+    "leader_name": "Divya Kapoor",
+    "department": "Computer Science"
+  },
+  {
+    "project_id": 11,
+    "title": "Campus Ride Share",
+    "description": "Carpooling app for students commuting to campus.",
+    "created_by": 125,
+    "start_date": "2023-10-15",
+    "end_date": "2024-02-28",
+    "status": "Completed",
+    "visibility": "Public",
+    "technology_stack": [
+      "Android",
+      "Java",
+      "Firebase"
+    ],
+    "members_count": 4,
+    "leader_name": "Manan Shah",
+    "department": "Mechanical Engineering"
+  },
+  {
+    "project_id": 12,
+    "title": "TaskFlow",
+    "description": "Simple task manager for student project teams.",
+    "created_by": 102,
+    "start_date": "2024-01-05",
+    "end_date": "2024-04-10",
+    "status": "Ongoing",
+    "visibility": "Private",
+    "technology_stack": [
+      "React",
+      "Node.js",
+      "MongoDB"
+    ],
+    "members_count": 2,
+    "leader_name": "Isha Verma",
+    "department": "Computer Science"
+  },
+  {
+    "project_id": 13,
+    "title": "QuizMaster",
+    "description": "Real-time quiz app with leaderboard and host controls.",
+    "created_by": 119,
+    "start_date": "2024-03-05",
+    "end_date": "2024-06-20",
+    "status": "Proposed",
+    "visibility": "Public",
+    "technology_stack": [
+      "JavaScript",
+      "Socket.io",
+      "Express"
+    ],
+    "members_count": 1,
+    "leader_name": "Ritvik Gupta",
+    "department": "Computer Science"
+  },
+  {
+    "project_id": 14,
+    "title": "ResumeBuilder",
+    "description": "Tool to create and download professional resumes with templates.",
+    "created_by": 111,
+    "start_date": "2023-11-20",
+    "end_date": "2024-03-15",
+    "status": "Completed",
+    "visibility": "Public",
+    "technology_stack": [
+      "React",
+      "HTML",
+      "CSS"
+    ],
+    "members_count": 3,
+    "leader_name": "Tanya Rao",
+    "department": "Information Technology"
+  },
+  {
+    "project_id": 15,
+    "title": "Campus Lost & Found",
+    "description": "Report and locate lost items within campus.",
+    "created_by": 107,
+    "start_date": "2024-02-15",
+    "end_date": "2024-05-30",
+    "status": "Ongoing",
+    "visibility": "Public",
+    "technology_stack": [
+      "Flutter",
+      "Firebase"
+    ],
+    "members_count": 4,
+    "leader_name": "Aditya Menon",
+    "department": "Computer Science"
+  },
+  {
+    "project_id": 16,
+    "title": "AI Grader",
+    "description": "Automated code assignment evaluator using AI.",
+    "created_by": 120,
+    "start_date": "2024-01-12",
+    "end_date": "2024-07-01",
+    "status": "Ongoing",
+    "visibility": "Private",
+    "technology_stack": [
+      "Python",
+      "Django",
+      "TensorFlow"
+    ],
+    "members_count": 5,
+    "leader_name": "Siddharth Iyer",
+    "department": "Artificial Intelligence"
+  },
+  {
+    "project_id": 17,
+    "title": "Course Companion",
+    "description": "Video notes and discussion forum for difficult courses.",
+    "created_by": 113,
+    "start_date": "2024-02-20",
+    "end_date": "2024-06-15",
+    "status": "Ongoing",
+    "visibility": "Public",
+    "technology_stack": [
+      "React",
+      "Node.js",
+      "MongoDB"
+    ],
+    "members_count": 3,
+    "leader_name": "Meera Desai",
+    "department": "Computer Science"
+  },
+  {
+    "project_id": 18,
+    "title": "Hackathon Hub",
+    "description": "Portal to organize and participate in internal hackathons.",
+    "created_by": 104,
+    "start_date": "2023-12-10",
+    "end_date": "2024-04-20",
+    "status": "Completed",
+    "visibility": "Public",
+    "technology_stack": [
+      "Python",
+      "Django",
+      "PostgreSQL"
+    ],
+    "members_count": 6,
+    "leader_name": "Jay Khanna",
+    "department": "Computer Science"
+  },
+  {
+    "project_id": 19,
+    "title": "FlashLearn",
+    "description": "Spaced repetition flashcard app for exam prep.",
+    "created_by": 124,
+    "start_date": "2024-03-01",
+    "end_date": "2024-08-10",
+    "status": "Proposed",
+    "visibility": "Private",
+    "technology_stack": [
+      "Flutter",
+      "Firebase"
+    ],
+    "members_count": 1,
+    "leader_name": "Lakshmi Nair",
+    "department": "Biotechnology"
+  },
+  {
+    "project_id": 20,
+    "title": "CodeDocs",
+    "description": "Collaborative code documentation tool for teams.",
+    "created_by": 118,
+    "start_date": "2024-01-25",
+    "end_date": "2024-05-25",
+    "status": "Ongoing",
+    "visibility": "Private",
+    "technology_stack": [
+      "JavaScript",
+      "Express",
+      "Markdown"
+    ],
+    "members_count": 3,
+    "leader_name": "Aryan Bhat",
+    "department": "Computer Science"
+  },
+  {
+    "project_id": 21,
+    "title": "Campus News",
+    "description": "Aggregated news, events, and announcements for students.",
+    "created_by": 106,
+    "start_date": "2023-11-15",
+    "end_date": "2024-03-25",
+    "status": "Completed",
+    "visibility": "Public",
+    "technology_stack": [
+      "React",
+      "Node.js",
+      "MongoDB"
+    ],
+    "members_count": 4,
+    "leader_name": "Zoya Ahmed",
+    "department": "Journalism"
+  },
+  {
+    "project_id": 22,
+    "title": "Project Tracker",
+    "description": "Simple dashboard to track milestones and deadlines.",
+    "created_by": 110,
+    "start_date": "2024-02-01",
+    "end_date": "2024-06-01",
+    "status": "Ongoing",
+    "visibility": "Private",
+    "technology_stack": [
+      "Python",
+      "Flask",
+      "SQLite"
+    ],
+    "members_count": 2,
+    "leader_name": "Dev Patel",
+    "department": "Information Technology"
+  },
+  {
+    "project_id": 23,
+    "title": "SkillSwap",
+    "description": "Peer-to-peer skill exchange platform (e.g., teach Python, learn design).",
+    "created_by": 121,
+    "start_date": "2024-03-15",
+    "end_date": "2024-09-10",
+    "status": "Proposed",
+    "visibility": "Public",
+    "technology_stack": [
+      "React",
+      "Firebase"
+    ],
+    "members_count": 1,
+    "leader_name": "Ira Joshi",
+    "department": "Computer Science"
+  },
+  {
+    "project_id": 24,
+    "title": "Exam Predictor",
+    "description": "Uses past data to predict likely exam questions.",
+    "created_by": 115,
+    "start_date": "2024-01-08",
+    "end_date": "2024-04-30",
+    "status": "Ongoing",
+    "visibility": "Private",
+    "technology_stack": [
+      "Python",
+      "Pandas",
+      "Flask"
+    ],
+    "members_count": 3,
+    "leader_name": "Rohan Khanna",
+    "department": "Data Science"
+  },
+  {
+    "project_id": 25,
+    "title": "Voice Notes",
+    "description": "Record and transcribe voice notes for lectures.",
+    "created_by": 109,
+    "start_date": "2024-02-10",
+    "end_date": "2024-07-05",
+    "status": "Ongoing",
+    "visibility": "Public",
+    "technology_stack": [
+      "Android",
+      "Kotlin",
+      "Speech-to-Text API"
+    ],
+    "members_count": 3,
+    "leader_name": "Arjun Patel",
+    "department": "Computer Science"
+  },
+  {
+    "project_id": 26,
+    "title": "CodeReviewBot",
+    "description": "Automated feedback on student coding assignments.",
+    "created_by": 123,
+    "start_date": "2024-03-01",
+    "end_date": "2024-08-20",
+    "status": "Proposed",
+    "visibility": "Private",
+    "technology_stack": [
+      "Python",
+      "GitHub API",
+      "Flask"
+    ],
+    "members_count": 2,
+    "leader_name": "Nalini Kumar",
+    "department": "Computer Science"
+  },
+  {
+    "project_id": 27,
+    "title": "Club Manager",
+    "description": "Manage club memberships, events, and budgets.",
+    "created_by": 108,
+    "start_date": "2023-12-05",
+    "end_date": "2024-04-18",
+    "status": "Completed",
+    "visibility": "Public",
+    "technology_stack": [
+      "JavaScript",
+      "Express",
+      "MongoDB"
+    ],
+    "members_count": 4,
+    "leader_name": "Neha Joshi",
+    "department": "Computer Science"
+  },
+  {
+    "project_id": 28,
+    "title": "Peer Tutor",
+    "description": "Book one-on-one tutoring sessions with peers.",
+    "created_by": 117,
+    "start_date": "2024-01-18",
+    "end_date": "2024-05-10",
+    "status": "Ongoing",
+    "visibility": "Public",
+    "technology_stack": [
+      "React",
+      "Node.js",
+      "Firebase"
+    ],
+    "members_count": 3,
+    "leader_name": "Vikram Singh",
+    "department": "Mathematics"
+  },
+  {
+    "project_id": 29,
+    "title": "Campus Map AR",
+    "description": "Augmented reality campus navigation app.",
+    "created_by": 126,
+    "start_date": "2024-02-25",
+    "end_date": "2024-09-30",
+    "status": "Proposed",
+    "visibility": "Private",
+    "technology_stack": [
+      "Android",
+      "ARCore",
+      "Kotlin"
+    ],
+    "members_count": 1,
+    "leader_name": "Karan Mehta",
+    "department": "Electronics"
+  },
+  {
+    "project_id": 30,
+    "title": "Planner Pro",
+    "description": "Smart academic planner with deadline alerts.",
+    "created_by": 101,
+    "start_date": "2024-01-01",
+    "end_date": "2024-04-01",
+    "status": "Completed",
+    "visibility": "Public",
+    "technology_stack": [
+      "Flutter",
+      "Firebase"
+    ],
+    "members_count": 3,
+    "leader_name": "Amit Sharma",
+    "department": "Computer Science"
+  },
+  {
+    "project_id": 31,
+    "title": "Code Playground",
+    "description": "In-browser code editor with sharing and collaboration.",
+    "created_by": 114,
+    "start_date": "2024-03-10",
+    "end_date": "2024-07-15",
+    "status": "Proposed",
+    "visibility": "Public",
+    "technology_stack": [
+      "JavaScript",
+      "React",
+      "WebSocket"
+    ],
+    "members_count": 2,
+    "leader_name": "Sneha Reddy",
+    "department": "Computer Science"
+  },
+  {
+    "project_id": 32,
+    "title": "Interview Prep",
+    "description": "Mock interviews and coding challenges with peer feedback.",
+    "created_by": 119,
+    "start_date": "2024-02-05",
+    "end_date": "2024-06-25",
+    "status": "Ongoing",
+    "visibility": "Private",
+    "technology_stack": [
+      "Python",
+      "Django",
+      "OpenAI API"
+    ],
+    "members_count": 4,
+    "leader_name": "Ritvik Gupta",
+    "department": "Computer Science"
+  },
+  {
+    "project_id": 33,
+    "title": "Expense Splitter",
+    "description": "Split project or group expenses easily.",
+    "created_by": 105,
+    "start_date": "2024-01-12",
+    "end_date": "2024-04-12",
+    "status": "Ongoing",
+    "visibility": "Public",
+    "technology_stack": [
+      "React",
+      "Node.js",
+      "MongoDB"
+    ],
+    "members_count": 3,
+    "leader_name": "Priya Nair",
+    "department": "Finance"
+  },
+  {
+    "project_id": 34,
+    "title": "Feedback Loop",
+    "description": "Collect structured feedback from team members.",
+    "created_by": 116,
+    "start_date": "2024-03-01",
+    "end_date": "2024-06-30",
+    "status": "Proposed",
+    "visibility": "Private",
+    "technology_stack": [
+      "JavaScript",
+      "Express",
+      "MongoDB"
+    ],
+    "members_count": 1,
+    "leader_name": "Divya Kapoor",
+    "department": "Psychology"
+  },
+  {
+    "project_id": 35,
+    "title": "Open Source Campus",
+    "description": "Contribute to open-source projects within the university.",
+    "created_by": 120,
+    "start_date": "2023-11-10",
+    "end_date": "2024-05-05",
+    "status": "Completed",
+    "visibility": "Public",
+    "technology_stack": [
+      "Python",
+      "GitHub API",
+      "Flask"
+    ],
+    "members_count": 5,
+    "leader_name": "Siddharth Iyer",
+    "department": "Computer Science"
+  },
+  {
+    "project_id": 36,
+    "title": "AI Notes",
+    "description": "Generate study notes from lecture recordings.",
+    "created_by": 124,
+    "start_date": "2024-02-15",
+    "end_date": "2024-08-15",
+    "status": "Ongoing",
+    "visibility": "Private",
+    "technology_stack": [
+      "Python",
+      "Whisper API",
+      "Streamlit"
+    ],
+    "members_count": 3,
+    "leader_name": "Lakshmi Nair",
+    "department": "Computer Science"
+  },
+  {
+    "project_id": 37,
+    "title": "Project Showcase",
+    "description": "Portfolio site for students to display their work.",
+    "created_by": 103,
+    "start_date": "2024-01-05",
+    "end_date": "2024-04-25",
+    "status": "Ongoing",
+    "visibility": "Public",
+    "technology_stack": [
+      "React",
+      "Tailwind",
+      "Firebase"
+    ],
+    "members_count": 2,
+    "leader_name": "Karan Malhotra",
+    "department": "Design"
+  },
+  {
+    "project_id": 38,
+    "title": "Team Finder",
+    "description": "Match students to projects based on skills and interests.",
+    "created_by": 112,
+    "start_date": "2024-03-05",
+    "end_date": "2024-07-20",
+    "status": "Proposed",
+    "visibility": "Public",
+    "technology_stack": [
+      "Python",
+      "Django",
+      "PostgreSQL"
+    ],
+    "members_count": 1,
+    "leader_name": "Rohan Mehta",
+    "department": "Computer Science"
+  },
+  {
+    "project_id": 39,
+    "title": "Lab Assistant Bot",
+    "description": "Chatbot to answer common lab-related queries.",
+    "created_by": 107,
+    "start_date": "2024-02-01",
+    "end_date": "2024-05-30",
+    "status": "Ongoing",
+    "visibility": "Private",
+    "technology_stack": [
+      "Python",
+      "Dialogflow",
+      "Flask"
+    ],
+    "members_count": 3,
+    "leader_name": "Aditya Menon",
+    "department": "Electronics"
+  },
+  {
+    "project_id": 40,
+    "title": "Scholarship Finder",
+    "description": "Match students with scholarships based on profile.",
+    "created_by": 118,
+    "start_date": "2023-12-01",
+    "end_date": "2024-04-10",
+    "status": "Completed",
+    "visibility": "Public",
+    "technology_stack": [
+      "JavaScript",
+      "Node.js",
+      "MongoDB"
+    ],
+    "members_count": 4,
+    "leader_name": "Aryan Bhat",
+    "department": "Social Sciences"
+  },
+  {
+    "project_id": 41,
+    "title": "Code Formatter",
+    "description": "Auto-format code submissions for consistency.",
+    "created_by": 122,
+    "start_date": "2024-01-20",
+    "end_date": "2024-05-01",
+    "status": "Ongoing",
+    "visibility": "Private",
+    "technology_stack": [
+      "Python",
+      "Black",
+      "Flask"
+    ],
+    "members_count": 2,
+    "leader_name": "Ananya Pillai",
+    "department": "Computer Science"
+  },
+  {
+    "project_id": 42,
+    "title": "Study Timer",
+    "description": "Pomodoro timer with progress tracking and goals.",
+    "created_by": 106,
+    "start_date": "2024-03-01",
+    "end_date": "2024-06-15",
+    "status": "Proposed",
+    "visibility": "Public",
+    "technology_stack": [
+      "React",
+      "Local Storage"
+    ],
+    "members_count": 1,
+    "leader_name": "Zoya Ahmed",
+    "department": "Psychology"
+  },
+  {
+    "project_id": 43,
+    "title": "Campus Poll",
+    "description": "Quick polls and surveys for student opinions.",
+    "created_by": 111,
+    "start_date": "2024-02-10",
+    "end_date": "2024-05-20",
+    "status": "Ongoing",
+    "visibility": "Public",
+    "technology_stack": [
+      "Flutter",
+      "Firebase"
+    ],
+    "members_count": 3,
+    "leader_name": "Tanya Rao",
+    "department": "Political Science"
+  },
+  {
+    "project_id": 44,
+    "title": "Bug Tracker",
+    "description": "Simple issue tracking for student dev teams.",
+    "created_by": 109,
+    "start_date": "2024-01-15",
+    "end_date": "2024-04-30",
+    "status": "Ongoing",
+    "visibility": "Private",
+    "technology_stack": [
+      "JavaScript",
+      "Express",
+      "MongoDB"
+    ],
+    "members_count": 3,
+    "leader_name": "Arjun Patel",
+    "department": "Computer Science"
+  },
+  {
+    "project_id": 45,
+    "title": "Course Planner",
+    "description": "Plan your semester with course dependencies and workload.",
+    "created_by": 115,
+    "start_date": "2024-03-10",
+    "end_date": "2024-08-01",
+    "status": "Proposed",
+    "visibility": "Public",
+    "technology_stack": [
+      "React",
+      "D3.js",
+      "Node.js"
+    ],
+    "members_count": 2,
+    "leader_name": "Rohan Khanna",
+    "department": "Computer Science"
+  },
+  {
+    "project_id": 46,
+    "title": "AI Career Guide",
+    "description": "Get personalized career advice using AI.",
+    "created_by": 121,
+    "start_date": "2024-02-05",
+    "end_date": "2024-07-10",
+    "status": "Ongoing",
+    "visibility": "Private",
+    "technology_stack": [
+      "Python",
+      "LangChain",
+      "Streamlit"
+    ],
+    "members_count": 3,
+    "leader_name": "Ira Joshi",
+    "department": "Computer Science"
+  },
+  {
+    "project_id": 47,
+    "title": "Campus Alerts",
+    "description": "Push notifications for emergencies and events.",
+    "created_by": 125,
+    "start_date": "2023-11-25",
+    "end_date": "2024-03-10",
+    "status": "Completed",
+    "visibility": "Public",
+    "technology_stack": [
+      "Android",
+      "Firebase Cloud Messaging"
+    ],
+    "members_count": 4,
+    "leader_name": "Manan Shah",
+    "department": "Electrical Engineering"
+  },
+  {
+    "project_id": 48,
+    "title": "Design Studio",
+    "description": "Collaborative UI/UX design tool for student teams.",
+    "created_by": 123,
+    "start_date": "2024-01-30",
+    "end_date": "2024-06-20",
+    "status": "Ongoing",
+    "visibility": "Private",
+    "technology_stack": [
+      "Figma Plugin",
+      "JavaScript",
+      "React"
+    ],
+    "members_count": 3,
+    "leader_name": "Nalini Kumar",
+    "department": "Design"
+  },
+  {
+    "project_id": 49,
+    "title": "Code Compiler API",
+    "description": "REST API to compile and run code snippets securely.",
+    "status": "Proposed",
+    "leader_name": "Vikram Singh"
+  }
+]
